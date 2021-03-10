@@ -1,0 +1,3 @@
+Error (cdf_create): /data/compoundx/bias-corrected-reanalysis/Tair_WFDE5_CRU_dly_197901_v1.0.nc: Permission denied
+cdo    daymean: Processed 1 variable over 699 timesteps [206.09s 39MB].
+cdo    daymean: Processed 1 variable over 774 timesteps [254.97s 41MB].

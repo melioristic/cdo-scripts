@@ -1,2 +1,0 @@
-cdf_create        : ncid = -1  mode = 4096  chunksizehint = 0 file = /data/compoundx/bias-corrected-reanalysis/Tair_WFDE5_CRU_dly_197901_v1.0.nc
-

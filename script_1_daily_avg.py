@@ -9,7 +9,7 @@ year = args.year
 
 list_out_file = [] 
 
-file_directory = '/data/compoundx/bias-corrected-reanalysis/' 
+file_directory = '/data/compoundx/bias-corrected-reanalysis/Tair/' 
 out_year_file_name = 'Tair_WFDE5_CRU_dly_'+ year + '_v1.0.nc'
 
 for month in range(1,13):
